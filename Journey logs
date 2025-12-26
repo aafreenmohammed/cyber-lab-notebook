@@ -1,0 +1,35 @@
+##Journey Logs
+
+Stg 1: 
+Completed Linux Survival course based on practical 
+system navigation 
+
+Learned how to manage files and directories, 
+understand where user, system, and temporary data lives 
+Worked with command-line tools 
+
+______________________________________
+ls, cd, pwd, mkdir, rm, rmdir
+/path/path, ., .., ~)
+/home, /tmp, /usr, /
+cp, mv, cp -r, rm -r)
+(.txt) vs scripts (.sh)
+echo
+cat
+Output redirection: >, >>
+rwx permissions
+User / group / other
+chmod
+Viewing files: more, less
+man, man -k, apropos, whatis
+find
+Wildcards (*, ?)
+Pipes (|)
+grep
+ps aux | grep ___
+kill
+root
+___________________________________
+
+What to learn next: 
+ip, ping, netstat, packate management, shell, chmod
